@@ -5294,8 +5294,6 @@ textarea {
   background-color: #ffffff;
   display: block;
   width: 100%; }
-  .form-control::-webkit-input-placeholder, .pcr-app .pcr-interaction .pcr-result::-webkit-input-placeholder, input[type="search"]::-webkit-input-placeholder, input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
-    font-style: italic; }
   .form-control::-moz-placeholder, .pcr-app .pcr-interaction .pcr-result::-moz-placeholder, input[type="search"]::-moz-placeholder, input[type="text"]::-moz-placeholder, textarea::-moz-placeholder {
     font-style: italic; }
   .form-control:-ms-input-placeholder, .pcr-app .pcr-interaction .pcr-result:-ms-input-placeholder, input[type="search"]:-ms-input-placeholder, input[type="text"]:-ms-input-placeholder, textarea:-ms-input-placeholder {
@@ -7036,8 +7034,6 @@ textarea {
   background-color: #ffffff;
   display: block;
   width: 100%; }
-  .form-control::-webkit-input-placeholder, .pcr-app .pcr-interaction .pcr-result::-webkit-input-placeholder, input[type="search"]::-webkit-input-placeholder, input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
-    font-style: italic; }
   .form-control::-moz-placeholder, .pcr-app .pcr-interaction .pcr-result::-moz-placeholder, input[type="search"]::-moz-placeholder, input[type="text"]::-moz-placeholder, textarea::-moz-placeholder {
     font-style: italic; }
   .form-control:-ms-input-placeholder, .pcr-app .pcr-interaction .pcr-result:-ms-input-placeholder, input[type="search"]:-ms-input-placeholder, input[type="text"]:-ms-input-placeholder, textarea:-ms-input-placeholder {
